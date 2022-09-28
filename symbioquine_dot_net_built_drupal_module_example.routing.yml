@@ -1,0 +1,6 @@
+symbioquine_dot_net_built_drupal_module_example_page.content:
+  path: '/symbioquine_dot_net_built_drupal_module_example'
+  defaults:
+    _controller: symbioquine_dot_net_built_drupal_module_example.top_level_controller:content
+    _title: 'Example Page'
+

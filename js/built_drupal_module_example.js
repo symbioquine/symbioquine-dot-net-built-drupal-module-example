@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(()=>{document.querySelector("#example-page-app").innerHTML="Hello world!"}));
