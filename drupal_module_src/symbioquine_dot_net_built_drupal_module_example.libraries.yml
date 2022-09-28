@@ -1,0 +1,6 @@
+built_drupal_module_example:
+  js:
+    js/built_drupal_module_example.js:
+      preprocess: false
+      minified: true
+

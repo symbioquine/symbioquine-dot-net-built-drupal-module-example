@@ -1,0 +1,6 @@
+name: Symbioquine.net Built Drupal Module Example
+description: This module shows an example of how to automatically build JS code with Webpack and push releases to Drupal.org
+type: module
+package: Example
+core_version_requirement: ^9
+
